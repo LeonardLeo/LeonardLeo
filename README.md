@@ -23,8 +23,9 @@
 
 
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardleo" /> </p>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
+</p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" /></a> </p>
 
@@ -158,5 +159,16 @@
 <p align="center">
   <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&locale=en&layout=compact" alt="leonardleo" />
 </p>
+
+
+
+---
+
+
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+
 
 ![](https://hit.yhype.me/github/profile?user_id=87311095)
