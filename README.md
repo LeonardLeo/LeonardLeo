@@ -20,11 +20,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
+- 📝 I share my ideas about data and its applications on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
 
 - 🔭 I’m currently maintaining [BuildML Library](https://github.com/TechLeo-Libraries/BuildML)
 
-- 🌱 I’m currently mastering **Data Science, Data Analysis,and AI applications**
+- 🌱 I’m currently mastering **Data Science, Data Analysis, and AI applications**
 
 - 📝 I regularly write articles on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
 
