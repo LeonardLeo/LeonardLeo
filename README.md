@@ -39,11 +39,15 @@
 ---
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
-</div>
+<p align="left"> 
+ <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" />
+ </a> 
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" /></a> </p>
+
+---
+
 
 - 📝 I share my ideas about data and its applications on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
 
@@ -52,6 +56,14 @@
 - 🌱 I’m currently mastering **Data Science, Data Analysis, and AI applications**
 
 - 📫 How to reach me **workwithtechleo@gmail.com**
+
+
+---
+
+
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
+</div>
 
 
 ---
