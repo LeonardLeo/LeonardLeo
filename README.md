@@ -133,19 +133,19 @@
 ---
 
 <p align="center">
-  <img width="1000" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardleo&" alt="leonardleo" />
+  <img width="800" height="220" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardleo&" alt="leonardleo" />
 </p>
 
 ---
 
 <p align="center">
-  &nbsp;<img width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en" alt="leonardleo" />
+  &nbsp;<img width="600" height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en" alt="leonardleo" />
 </p>
 
 ---
 
 <p align="center">
-  <img align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&locale=en&layout=compact" alt="leonardleo" />
+  <img width="400" height="200" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&locale=en&layout=compact" alt="leonardleo" />
 </p>
 
 ---
