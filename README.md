@@ -41,7 +41,7 @@
 
 <p align="left"> 
  <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" />
+  <img src="https://github-profile-trophy.vercel.app/?username=leonardleo&theme=onedark" alt="leonardleo" />
  </a> 
 </p>
 
