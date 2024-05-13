@@ -1,8 +1,7 @@
 <p align="center">
- <img width="1000" src="assets/profile.PNG" alt="profile"/>
+ <img width="1000" src="assets/profile.png" alt="profile"/>
 </p>
 
----
 
 <h1 align="center">Leonard Onyiriuba</h1>
 <h3 align="center">Data Scientist | Data Analyst | BI Developer</h3>
