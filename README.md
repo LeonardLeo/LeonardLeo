@@ -145,7 +145,7 @@
 ---
 
 <p align="center">
-  <img width="800" height="220" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="leonardleo" />
+  <img width="800" height="220" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&locale=en&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="leonardleo" />
 </p>
 
 ---
