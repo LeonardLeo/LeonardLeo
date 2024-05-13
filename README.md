@@ -25,7 +25,7 @@
 
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
-</p>
+</div>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leonardleo" alt="leonardleo" /></a> </p>
 
