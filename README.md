@@ -61,16 +61,13 @@
 ---
 
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
-</div>
-
-
----
-
-
 ## Languages and Tools 
 <div>
+
+### Profile Information:
+<div id="header" align="left">
+  <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&style=for-the-badge&color=orange" alt="leonardleo" />
+</div>
 
 ### Languages:
 | Python3 | C | JS | Solidity |
