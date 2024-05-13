@@ -45,15 +45,11 @@
  </a> 
 </p>
 
-
----
-
-
 - 📝 I share my ideas about data and its applications on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
 
 - 🔭 I’m currently maintaining [BuildML Library](https://github.com/TechLeo-Libraries/BuildML)
 
-- 🌱 I’m currently mastering **Data Science, Data Analysis, and AI applications**
+- 🌱 I specialize in **Data Science, Data Analysis, and AI application** development
 
 - 📫 How to reach me **workwithtechleo@gmail.com**
 
