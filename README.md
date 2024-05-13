@@ -139,7 +139,7 @@
 ---
 
 <p align="center">
-  &nbsp;<img width="800" height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en&show_icons=true&theme=vision-friendly-dark" alt="leonardleo" />
+  &nbsp;<img width="800" height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en&theme=vision-friendly-dark&hide_border=true&border_radius=5&card_width=800" alt="leonardleo" />
 </p>
 
 ---
