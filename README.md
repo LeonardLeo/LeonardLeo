@@ -1,5 +1,5 @@
 <p align="center">
- <img width="1000" src="assets/profile.PNG" alt="snake"/>
+ <img width="1000" src="assets/profile.PNG" alt="profile"/>
 </p>
 
 ---
