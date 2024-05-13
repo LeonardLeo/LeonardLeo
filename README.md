@@ -22,6 +22,12 @@
 
 - 📝 I regularly write articles on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
 
+- 🔭 I’m currently maintaining [BuildML Library](https://github.com/TechLeo-Libraries/BuildML)
+
+- 🌱 I’m currently mastering **Data Science, Data Analysis,and AI applications**
+
+- 📝 I regularly write articles on [https://medium.com/@workwithtechleo](https://medium.com/@workwithtechleo)
+
 - 📫 How to reach me **workwithtechleo@gmail.com**
 
 ### Blogs posts
@@ -46,4 +52,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardleo&" alt="leonardleo" /></p>
 
-![ME](https://hit.yhype.me/github/profile?user_id=87311095)
+![](https://hit.yhype.me/github/profile?user_id=87311095)
