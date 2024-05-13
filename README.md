@@ -133,13 +133,13 @@
 ---
 
 <p align="center">
-  <img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardleo&" alt="leonardleo" />
+  <img width="1000" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leonardleo&" alt="leonardleo" />
 </p>
 
 ---
 
 <p align="center">
-  &nbsp;<img  align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en" alt="leonardleo" />
+  &nbsp;<img width="1000" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en" alt="leonardleo" />
 </p>
 
 ---
