@@ -1,4 +1,18 @@
+<h1 align="center">Leonard Onyiriuba</h1>
+
 <h3 align="center">Data Scientist | Data Analyst | BI Developer</h3>
+<hr></hr>
+<h5>About Me:</h5>
+
+<div>
+  Leonard is a data professional who enjoys creating solutions, providing insights, and imparting knowledge with data. With over 6 years in analytics and a strong background in Economics, I excel in data 
+  science, data analysis, machine learning, and storytelling with data.
+
+  From working on machine-learning solutions to creating dashboards tailored towards providing insight, my focal point is critical analysis and building simple data solutions that make the complex easy. I 
+  love sharing what I have learned over the years while continually expanding my expertise.
+  
+  I am always seeking ways to collaborate, opportunities to network, and open-ended growth. If this resonates with you, then let's connect.
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardleo&label=Profile%20views&color=0e75b6&style=flat" alt="leonardleo" /> </p>
 
