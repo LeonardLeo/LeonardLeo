@@ -139,13 +139,13 @@
 ---
 
 <p align="center">
-  &nbsp;<img width="800" height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&size_weight=0.15&count_weight=0.5&show_icons=true&locale=en&show_icons=true&theme=vision-friendly-dark" alt="leonardleo" />
+  &nbsp;<img width="800" height="220" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardleo&show_icons=true&locale=en&show_icons=true&theme=vision-friendly-dark" alt="leonardleo" />
 </p>
 
 ---
 
 <p align="center">
-  <img width="800" height="220" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="leonardleo" />
+  <img width="800" height="220" align = "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardleo&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800" alt="leonardleo" />
 </p>
 
 ---
