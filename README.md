@@ -135,7 +135,7 @@
 
 
 
-
+<!--
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -187,7 +187,7 @@
   <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> 
  </a> 
 </p>
-
+--->
 
 <br></br>
 
@@ -218,9 +218,5 @@
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-
-<p align="center">
-  <img width="800" height="220" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzY5YTQybHlpM3RoejNycHlkdWsxdzRlYnoxbTZ2azhuNG82djl6aiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l378c04F2fjeZ7vH2/giphy.gif">
-</p>
 
 ![](https://hit.yhype.me/github/profile?user_id=87311095)
