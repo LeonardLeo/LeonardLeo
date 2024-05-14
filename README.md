@@ -220,7 +220,7 @@
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true&section=footer&textBg=false" />
+  <img width="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmViNjIwN2lqNGRzendxMTRmdnUycnU1emM1dHJuMGNoajBzdDY0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KX5nwoDX97AtPvKBF6/giphy.mp4">
 </p>
 
 ![](https://hit.yhype.me/github/profile?user_id=87311095)
